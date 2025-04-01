@@ -1,0 +1,204 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Users/lfsc/Desktop/projeto/projeto/modelsim2020
+vbancoReg
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1665006259
+!i10b 1
+!s100 MA`zVE]46]d1NX]FY1PE>1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I:oiQfmnj6K9<cWc;:478b0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1538754022
+8../modulos/bancoReg.sv
+F../modulos/bancoReg.sv
+!i122 0
+L0 1 34
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1665006259.000000
+!s107 ../modulos/bancoReg.sv|../modulos/Memoria64.sv|../modulos/Memoria32.sv|../modulos/ramOnChip64.v|../modulos/ramOnChip32.v|../modulos/simulacaobancoderegistrador.sv|../modulos/simulacao64.sv|../modulos/simulacao32.sv|
+Z7 !s90 -reportprogress|300|-f|compile_verilog|
+!i113 1
+Z8 tCvgOpt 0
+nbanco@reg
+vMemoria32
+R1
+R2
+!i10b 1
+!s100 >G=:MXg8GNaWB=7Y8?<P01
+R3
+I_YQZNUClGO>S<nVX2<D@W0
+R4
+S1
+R0
+w1538747246
+8../modulos/Memoria32.sv
+F../modulos/Memoria32.sv
+!i122 0
+L0 26 55
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 ../modulos/bancoReg.sv|../modulos/Memoria64.sv|../modulos/Memoria32.sv|../modulos/ramOnChip64.v|../modulos/ramOnChip32.v|../modulos/simulacaobancoderegistrador.sv|../modulos/simulacao64.sv|../modulos/simulacao32.sv|
+R7
+!i113 1
+R8
+n@memoria32
+vMemoria64
+R1
+R2
+!i10b 1
+!s100 cNzZRe4CSP^T`d`Nz=94E3
+R3
+I_B[7D<Rbmg`J2m[bF]1@i0
+R4
+S1
+R0
+w1538751830
+8../modulos/Memoria64.sv
+F../modulos/Memoria64.sv
+!i122 0
+L0 26 86
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+n@memoria64
+vramOnChip32
+R2
+!i10b 1
+!s100 ANVMcJ>zoMilMS0;3XPLA0
+R3
+IXLl3:4>meXZ;c0YE6F?R62
+R4
+R0
+w1538746728
+8../modulos/ramOnChip32.v
+F../modulos/ramOnChip32.v
+!i122 0
+Z10 L0 40 78
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+nram@on@chip32
+vramOnChip64
+R2
+!i10b 1
+!s100 6BVQO8MR:laYPC_6_Ka<21
+R3
+Ima0PV1bnEc=J6?[GJ^=j`1
+R4
+R0
+w1538746736
+8../modulos/ramOnChip64.v
+F../modulos/ramOnChip64.v
+!i122 0
+R10
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+nram@on@chip64
+vsimulacao32
+R1
+R2
+!i10b 1
+!s100 T]3;[TWVafFMeN2YXABj73
+R3
+Iab[B^jO_Tl;NATb;XOCM:1
+R4
+S1
+R0
+w1538751254
+8../modulos/simulacao32.sv
+F../modulos/simulacao32.sv
+!i122 0
+Z11 L0 3 83
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+vsimulacao64
+R1
+R2
+!i10b 1
+!s100 dVgFQQC1kWKbI5>Jb=ed62
+R3
+IGj0SM^EU`lWZ7<KfTYm9l0
+R4
+S1
+R0
+w1538751432
+8../modulos/simulacao64.sv
+F../modulos/simulacao64.sv
+!i122 0
+R11
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+vsimulacaobancoderegistrador
+R1
+R2
+!i10b 1
+!s100 JQMnH`kf:F2IGj3=Amai=1
+R3
+Ib>h1FQlhS;5G3kdn08dn:1
+R4
+S1
+R0
+w1538753868
+8../modulos/simulacaobancoderegistrador.sv
+F../modulos/simulacaobancoderegistrador.sv
+!i122 0
+L0 3 102
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8

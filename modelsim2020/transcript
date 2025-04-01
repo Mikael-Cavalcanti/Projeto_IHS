@@ -1,0 +1,87 @@
+do runmemoria32
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:43:59 on Oct 05,2022
+# vlog -reportprogress 300 -f compile_verilog 
+# -- Compiling module simulacao32
+# -- Compiling module simulacao64
+# -- Compiling module simulacaobancoderegistrador
+# -- Compiling module ramOnChip32
+# -- Compiling module ramOnChip64
+# -- Compiling module Memoria32
+# -- Compiling module Memoria64
+# -- Compiling module bancoReg
+# 
+# Top level modules:
+# 	simulacao32
+# 	simulacao64
+# 	simulacaobancoderegistrador
+# End time: 18:43:59 on Oct 05,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L altera_mf_ver -L lpm_ver -L sgate_ver -L altera_ver -L work -voptargs=""+acc"" simulacao32 
+# Start time: 18:43:40 on Oct 05,2022
+# ** Error (suppressible): (vsim-12110) The -novopt option has no effect on this product. -novopt option is now deprecated and will be removed in future releases.
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./runmemoria32 PAUSED at line 5
+project open D:/Users/lfsc/Desktop/projeto/projeto/modelsim2020/projeto
+do runmemoria32
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:44:12 on Oct 05,2022
+# vlog -reportprogress 300 -f compile_verilog 
+# -- Compiling module simulacao32
+# -- Compiling module simulacao64
+# -- Compiling module simulacaobancoderegistrador
+# -- Compiling module ramOnChip32
+# -- Compiling module ramOnChip64
+# -- Compiling module Memoria32
+# -- Compiling module Memoria64
+# -- Compiling module bancoReg
+# 
+# Top level modules:
+# 	simulacao32
+# 	simulacao64
+# 	simulacaobancoderegistrador
+# End time: 18:44:12 on Oct 05,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L altera_mf_ver -L lpm_ver -L sgate_ver -L altera_ver -L work -voptargs=""+acc"" simulacao32 
+# Start time: 18:43:40 on Oct 05,2022
+# ** Error (suppressible): (vsim-12110) The -novopt option has no effect on this product. -novopt option is now deprecated and will be removed in future releases.
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./runmemoria32 PAUSED at line 5
+clean
+clear
+# invalid command name "clear"
+do runmemoria32
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:44:19 on Oct 05,2022
+# vlog -reportprogress 300 -f compile_verilog 
+# -- Compiling module simulacao32
+# -- Compiling module simulacao64
+# -- Compiling module simulacaobancoderegistrador
+# -- Compiling module ramOnChip32
+# -- Compiling module ramOnChip64
+# -- Compiling module Memoria32
+# -- Compiling module Memoria64
+# -- Compiling module bancoReg
+# 
+# Top level modules:
+# 	simulacao32
+# 	simulacao64
+# 	simulacaobancoderegistrador
+# End time: 18:44:19 on Oct 05,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L altera_mf_ver -L lpm_ver -L sgate_ver -L altera_ver -L work -voptargs=""+acc"" simulacao32 
+# Start time: 18:43:40 on Oct 05,2022
+# ** Error (suppressible): (vsim-12110) The -novopt option has no effect on this product. -novopt option is now deprecated and will be removed in future releases.
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./runmemoria32 PAUSED at line 5
+# End time: 18:44:23 on Oct 05,2022, Elapsed time: 0:00:43
+# Errors: 4, Warnings: 1
